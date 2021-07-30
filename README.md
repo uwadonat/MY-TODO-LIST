@@ -17,7 +17,7 @@ Additional description of the project and its features.
 
 ## Live Demo
 
-[To do list testing live demo](https://uwadonat.github.io/MY-TODO-LIST/)
+[live demo](https://uwadonat.github.io/MY-TODO-LIST/)
 
 ### Setup
 
