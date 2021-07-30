@@ -4,6 +4,10 @@
 
 > In this project we wrote unit tests for the To Do list application. The testing project has been divided into two parts. In part 1 we tested functions responsible for adding and deleting list items. In part 2 we will the status and content updates as well as the order re-position of items in the list.
 
+![screenshot](https://github.com/uwadonat/MY-TODO-LIST/blob/testing-part2/Screenshot.png)
+
+Additional description of the project and its features.
+
 ## Built With
 
 - JavaScript
