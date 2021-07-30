@@ -25,3 +25,19 @@ describe("Function for testing text inputs", () => {
       });
     });  
 });
+
+describe("Function for testing checkbox inputs", () => {
+    const checkInputs = global.document.getElementsByTagName("input");
+    Array.from(checkInputs).forEach((checkInput) => {
+      if (checkInput.type === "checkbox") {
+        test("renders all the input checkbox element", () => {
+          expect(checkInput).not.toBeNull();
+        });
+        test("tests all input checkbox element ", async () => {
+          const oldState = checkInput.checked;
+          fireEvent.click(checkInput);
+          expect(checkInput.checked).not.toBe(oldState);
+        });
+      }
+    });   
+});
