@@ -31,9 +31,15 @@
 
 👤 DONAT UWAMAHORO
 
-- Github: [@githubhandle)](https://github.com/uwadonat)
-- Linkedin: [@twitterhandle)](https://www.linkedin.com/in/uwadonat)
-- Twitter: [LinkedIn)](https://twitter.com/uwahoroDonat)
+- Github: [Donat Uwamahoro](https://github.com/uwadonat)
+- Linkedin: [Donat Uwamahoro](https://www.linkedin.com/in/uwadonat)
+- Twitter: [Donat Uwamahoro](https://twitter.com/uwahoroDonat)
+  
+👤 SHEYLA POZO
+
+- Github:[Sheyla Pozo](https://github.com/sheylaPozo)
+- Linkedin: [Sheyla Pozo](https://www.linkedin.com/in/sheypozo/)
+- Twitter: [Sheyla Pozo](https://twitter.com/sheyPozo)
 
 ## 🤝 Contributing
 
