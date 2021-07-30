@@ -2,7 +2,7 @@
 
 # To do list testing
 
-> In this project we wrote unit tests for the To Do list application. The testing project has been divided into two parts. In part 1 we tested functions responsible for adding and deleting list items. In part 2 we will the status and content updates as well as the order re-position of items in the list.
+> In this project we tested functions that are responsible for the status and content updates of the previous todo list we built on Javascript. You will also find our test for the order re-position of items in the list upon drag/drop actions.
 
 ![screenshot](https://github.com/uwadonat/MY-TODO-LIST/blob/testing-part2/Screenshot.png)
 
