@@ -1,19 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To do list with Java Script
+# To do list testing
 
-> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. using the javascript function, this project will allow the user to enter his list of todo tasks, user can also drag and drop list elements to change the order as he wishes and the user will be also able to mark any task as completed and delete a list of all completed tasks.
-
+> In this project we wrote unit tests for the To Do list application. The testing project has been divided into two parts. In part 1 we tested functions responsible for adding and deleting list items. In part 2 we will the status and content updates as well as the order re-position of items in the list.
 
 ## Built With
 
 - JavaScript
 - HTML, CSS
 - Webpack
+- Jest
 
 ## Live Demo
 
-[To do list](https://uwadonat.github.io/MY-TODO-LIST/)
+[To do list testing live demo](https://uwadonat.github.io/MY-TODO-LIST/)
 
 ### Setup
 
@@ -23,9 +23,7 @@
 
 3. run: `npm i`
 
-4. run: `npm run build`
-
-5. run: `npm run start`
+4. run: `npm run test`
 
 ## Authors
 
@@ -35,7 +33,7 @@
 - Linkedin: [Donat Uwamahoro](https://www.linkedin.com/in/uwadonat)
 - Twitter: [Donat Uwamahoro](https://twitter.com/uwahoroDonat)
   
-👤 SHEYLA POZO
+ 👤 SHEYLA POZO
 
 - Github:[Sheyla Pozo](https://github.com/sheylaPozo)
 - Linkedin: [Sheyla Pozo](https://www.linkedin.com/in/sheypozo/)
@@ -45,7 +43,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/uwadonat/My_toDo_List/issues/new).
+Feel free to check the [issues page](https://github.com/uwadonat/MY-TODO-LIST/issues/new).
 
 ## Show your support
 
